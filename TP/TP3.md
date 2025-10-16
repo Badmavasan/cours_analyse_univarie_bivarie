@@ -108,4 +108,4 @@ plt.show()
 
 **Question:** 
 1. Donner votre observation sur comment analyses différentes formes de relations bivariées entre dfférents types de variables. 
-2. Trouver s'il existe ua moins une relation de causalité dans le jeu de données si oui, calculer également la corrélation. Comparez et interpreter la différence.
+2. Trouver s'il existe au moins une relation de causalité dans le jeu de données si oui, calculer également la corrélation. Comparez et interpreter la différence.
